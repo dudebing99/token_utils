@@ -2,6 +2,20 @@
 
 The `Token Utils` is a quick, simple, safe tool to issue tokens or NFTs, including issuing ERC20 and ERC721.
 
+### Issue ERC20
+
+![image](https://github.com/user-attachments/assets/c112542a-e48c-4752-9e21-536756c9396c)
+
+![image](https://github.com/user-attachments/assets/ffd10ff5-e5b9-45f9-b5fe-a8687a67c838)
+
+![image](https://github.com/user-attachments/assets/4a869604-759e-4055-a77a-6a5b5490050e)
+
+### Issue ERC721
+
+![image](https://github.com/user-attachments/assets/375a026c-82cf-4e74-898b-546152bf8135)
+
+![image](https://github.com/user-attachments/assets/394036b5-cf55-4a0f-8cf4-ce5fa51da40b)
+
 ## Build Setup
 
 ```bash
